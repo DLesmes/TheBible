@@ -1,2 +1,2 @@
 # TheBible
-NLP Applying to the God's words
+NLP Applyed to the God's words
